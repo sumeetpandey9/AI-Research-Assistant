@@ -1,0 +1,30 @@
+# PDF Processing
+PyPDF2
+pdfplumber
+pymupdf
+
+# AI & NLP
+transformers
+torch
+nltk
+sentence-transformers
+spacy
+
+# Streamlit & UI
+streamlit
+streamlit_chat
+
+# OpenAI & Gemini API
+openai
+google-generativeai
+
+# Language & Utility
+langchain
+tqdm
+
+# Authentication & Environment Variables
+python-dotenv
+
+# Extra (Ensure smooth execution)
+requests
+numpy
